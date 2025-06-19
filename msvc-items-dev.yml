@@ -1,0 +1,7 @@
+server:
+  port: 8005
+configuracion:
+  texto: Configurando entorno por dev
+  autor:
+    nombre: Mariano
+    email: Email
