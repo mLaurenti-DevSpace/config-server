@@ -1,7 +1,7 @@
 server:
   port: 8005
 configuracion:
-  texto: Configurando entorno por dev con actuator
+  texto: Configurando entorno por dev con actuator + cambios
   autor:
-    nombre: Mariano
+    nombre: Mariano Laurenti
     email: Email
